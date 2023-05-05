@@ -10,3 +10,12 @@
   margin: auto;
   margin-top: 30px;
 }
+#title-h1 {
+  font-family: "Bowlby One SC", cursive;
+  font-size: 50px;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+}
+span {
+  color: #ff0000;
+}
