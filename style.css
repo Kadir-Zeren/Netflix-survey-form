@@ -19,3 +19,9 @@
 span {
   color: #ff0000;
 }
+#description {
+  font-family: "Sorts Mill Goudy", serif;
+}
+#header-div {
+  text-align: center;
+}
