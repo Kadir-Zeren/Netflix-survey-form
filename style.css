@@ -2,6 +2,10 @@
   margin: 0;
   padding: 0;
 }
+body {
+  /* background-image: url(./img/netflix-background-image_720.png); */
+  color: #ffffff;
+}
 
 #container {
   max-width: 1240px;
@@ -24,4 +28,12 @@ span {
 }
 #header-div {
   text-align: center;
+}
+#form-container {
+  width: 500px;
+  height: 800px;
+  background-color: rgba(0, 0, 0, 0.8);
+  margin: auto;
+  padding: 30px 40px;
+  margin-bottom: 30px;
 }
